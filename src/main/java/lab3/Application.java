@@ -50,6 +50,6 @@ public class Application {
             e.printStackTrace();
         }
 
-        System.out.println("\nDatele au fost salvate in out.txt");
+        System.out.println("\nDatele au fost salvate in out.txt ");
     }
 }
