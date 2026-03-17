@@ -37,5 +37,5 @@ if (!segment.equals("")) {
 
 
 for (int i = 0; i < k; i++) {
-System.out.println("array[" + i + "] = " + array[i]);} }
+System.out.println("array[" + i + "] =  " + array[i]);} }
 }
