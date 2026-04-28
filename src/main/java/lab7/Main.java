@@ -5,7 +5,6 @@ import lab7.forms.Form;
 import lab7.forms.Square;
 import lab7.forms.Triangle;
 import lab7.util.PasswordMaker;
-import lab7.util.StringRandomizer;
 
 
 
