@@ -2,9 +2,8 @@ package lab4;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Set;
 
-public class applab4 {
+public class AppLab4 {
     public static void main(String[] args) {
         HashMap<String, Integer> varste = new HashMap<>();
         varste.put("Ioan", 21);

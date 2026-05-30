@@ -1,7 +1,7 @@
 package lab9;
 import java.util.*;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         Random rand=new Random();
         List<Integer> lista = rand.ints(10, 5, 26)
